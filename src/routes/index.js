@@ -1,9 +1,9 @@
 const express = require("express");
 const router = express.Router();
 
-const { testEnvironmentVariable } = require("../settings");
+const { indexPage, messagesPage } = require("../controllers");
 
-router.get("/", function (req, res, next) {
-  return res.status(200).json({ message: testEnvironmentVariable });
-});
+router.get("/", indexPage);
+router.get("/messages", messagesPage);
+
 module.exports = router;
