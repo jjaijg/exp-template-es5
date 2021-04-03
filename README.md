@@ -1,1 +1,1 @@
-# Videocaptcha API
+# Videocaptcha API https://travis-ci.com/jjaijg/exp-template-es5.svg?token=C29ALuDU6N4sEpHx6BXz&branch=master [![Coverage Status](https://coveralls.io/repos/github/jjaijg/exp-template-es5/badge.svg?branch=master)](https://coveralls.io/github/jjaijg/exp-template-es5?branch=master) [![Test Coverage](https://api.codeclimate.com/v1/badges/fa0401ac14a1c2353532/test_coverage)](https://codeclimate.com/github/jjaijg/exp-template-es5/test_coverage)
